@@ -1,0 +1,28 @@
+.user-details {
+    text-align: center;
+    margin-left: 650px;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 400px;
+    margin: auto;
+  }
+  
+  input {
+    padding: 10px;
+  }
+  
+  button {
+    padding: 10px;
+    text-align: center;
+    width:330px;
+  }
+  
+  .error {
+    color: red;
+    font-weight: bold;
+  }
+  

@@ -1,0 +1,23 @@
+.login-container {
+    text-align: center;
+    margin-top: 10%;
+    margin-left: 600px;
+  }
+  
+  input {
+    margin: 10px;
+    padding: 10px;
+    width: 300px;
+  }
+  
+  button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .error {
+    color: red;
+    font-weight: bold;
+  }
+  
